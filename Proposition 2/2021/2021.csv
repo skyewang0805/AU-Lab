@@ -1,0 +1,900 @@
+Date,Culture,Variety,Nombre,Poids (kg),Section
+2021-07-20,Aubergine,Hansel,27,5.774,G
+2021-07-21,Aubergine,Hansel,27,3.326,G
+2021-07-21,Aubergine,Beatrice,42,13.302,G
+2021-07-26,Aubergine,Beatrice,24,16.7,G
+2021-07-26,Aubergine,Hansel,24,5.43,G
+2021-07-26,Aubergine,Antigua,24,1.16,G
+2021-07-28,Aubergine,Beatrice,24,20,G
+2021-07-28,Aubergine,Hansel,24,4.8,G
+2021-08-02,Aubergine,Beatrice,24,11.9,G
+2021-08-02,Aubergine,Hansel,24,2.974,G
+2021-08-03,Aubergine,Beatrice,24,1.048,G
+2021-08-04,Aubergine,Beatrice,24,19.508,G
+2021-08-04,Aubergine,Hansel,24,6.77,G
+2021-08-04,Aubergine,Antigua,24,0.886,G
+2021-08-04,Aubergine,Rosa Bianca,24,2.238,G
+2021-08-06,Aubergine,Beatrice,24,7.51,G
+2021-08-06,Aubergine,Hansel,24,3.26,G
+2021-08-06,Aubergine,Antigua,24,0.55,G
+2021-08-06,Aubergine,Rosa Bianca,24,1.068,G
+2021-08-09,Aubergine,Beatrice,24,15.796,G
+2021-08-09,Aubergine,Hansel,24,3.45,G
+2021-08-11,Aubergine,Beatrice,24,21.342,G
+2021-08-11,Aubergine,Hansel,24,5.668,G
+2021-08-11,Aubergine,Antigua,24,4.754,G
+2021-08-11,Aubergine,Rosa Bianca,24,4.134,G
+2021-08-13,Aubergine,Beatrice,24,14.48,G
+2021-08-16,Aubergine,Beatrice,24,12.45,G
+2021-08-18,Aubergine,Beatrice,24,15.78,G
+2021-08-18,Aubergine,Hansel,24,11.31,G
+2021-08-18,Aubergine,Antigua,24,5.672,G
+2021-08-18,Aubergine,Rosa Bianca,24,5.616,G
+2021-08-20,Aubergine,Hansel,24,4.974,G
+2021-08-23,Aubergine,Beatrice,24,31.008,G
+2021-08-25,Aubergine,Hansel,24,3.442,G
+2021-08-25,Aubergine,Antigua,24,2.676,G
+2021-08-25,Aubergine,Rosa Bianca,24,8.882,G
+2021-08-25,Aubergine,Beatrice,24,12.213,G
+2021-08-27,Aubergine,Beatrice,24,11.832,G
+2021-08-27,Aubergine,Antigua,24,1.264,G
+2021-08-27,Aubergine,Rosa Bianca,24,4.99,G
+2021-08-30,Aubergine,Beatrice,24,16.468,G
+2021-09-01,Aubergine,Beatrice,24,7.678,G
+2021-09-01,Aubergine,Hansel,24,10.542,G
+2021-09-01,Aubergine,Rosa Bianca,24,2.378,G
+2021-09-01,Aubergine,Antigua,24,1.624,G
+2021-09-07,Aubergine,Beatrice,24,12.218,G
+2021-09-08,Aubergine,Beatrice,24,5.342,G
+2021-09-08,Aubergine,Hansel,24,1.616,G
+2021-09-08,Aubergine,Rosa Bianca,24,3.01,G
+2021-09-08,Aubergine,Antigua,24,1.164,G
+2021-09-13,Aubergine,Beatrice,24,16.446,G
+2021-09-15,Aubergine,Beatrice,24,9.482,G
+2021-09-15,Aubergine,Hansel,24,8.562,G
+2021-09-15,Aubergine,Antigua,24,2.834,G
+2021-09-15,Aubergine,Rosa Bianca,24,5.238,G
+2021-09-20,Aubergine,Beatrice,24,3.678,G
+2021-09-20,Aubergine,Antigua,24,0.622,G
+2021-09-20,Aubergine,Hansel,24,0.908,G
+2021-09-20,Aubergine,Rosa Bianca,24,0.426,G
+2021-09-22,Aubergine,Antigua,24,0.262,G
+2021-09-22,Aubergine,Beatrice,24,2.024,G
+2021-09-22,Aubergine,Hansel,24,1.268,G
+2021-09-27,Aubergine,Beatrice,24,4.692,G
+2021-09-29,Aubergine,Beatrice,24,4.374,G
+2021-09-29,Aubergine,Hansel,24,1.468,G
+2021-09-29,Aubergine,Rosa Bianca,24,2.31,G
+2021-09-29,Aubergine,Antigua,24,1.804,G
+2021-10-06,Aubergine,Beatrice,24,0.994,G
+2021-10-06,Aubergine,Antigua,24,0.594,G
+2021-10-06,Aubergine,Rosa Bianca,24,0.824,G
+2021-10-06,Aubergine,Hansel,24,0.778,G
+2021-10-13,Aubergine,Beatrice,24,6.76,G
+2021-10-13,Aubergine,Antigua,24,1.608,G
+2021-10-13,Aubergine,Hansel,24,1.604,G
+2021-10-13,Aubergine,Rosa Bianca,24,0.47,G
+2021-09-02,Basilic,Genovese,24,1.77,Vertical
+2021-09-03,Basilic,Genovese,24,2.166,Vertical
+2021-09-07,Basilic,Genovese,24,0.282,Vertical
+2021-09-07,Basilic,Thai,24,0.108,Vertical
+2021-09-13,Basilic,Genovese,24,0.656,Vertical
+2021-09-15,Basilic,Genovese,24,0.68,Vertical
+2021-09-20,Basilic,Genovese,24,0.286,Vertical
+2021-09-22,Basilic,Thai,24,0.196,Vertical
+2021-09-29,Basilic,Thai,24,5.382,Vertical
+2021-10-05,Basilic,Genovese,24,1.846,Vertical
+2021-08-23,Bette a carde,Bette a carde,24,2.3,Vertical
+2021-09-08,Bette a carde,Bette a carde,24,1.486,Vertical
+2021-09-15,Bette a carde,Bette a carde,24,0.998,Vertical
+2021-10-06,Bette a carde,Bette a carde,24,1.532,Vertical
+2021-10-05,Capucine,Capucine,24,0.054,Vertical
+2021-10-08,Capucine,Capucine,24,0.052,Vertical
+2021-07-21,Carotte,Carotte,24,3.564,Passerelle
+2021-07-28,Carotte,Carotte,24,5.2,Passerelle
+2021-08-04,Carotte,Carotte,24,3.534,Passerelle
+2021-08-11,Carotte,Carotte,24,6.814,Passerelle
+2021-08-18,Carotte,Carotte,24,6.77,Passerelle
+2021-08-02,Celeri,Rose,11,4.252,G
+2021-08-04,Celeri,Rose,28,13.124,G
+2021-08-06,Celeri,Rose,24,6.902,G
+2021-08-11,Celeri,Rose,44,19.867,G
+2021-08-18,Celeri,Rose,24,5.14,G
+2021-08-18,Celeri,Rose,24,16.774,G
+2021-08-20,Celeri,Rose,19,25.956,G
+2021-08-25,Celeri,Rose,25,15.21,G
+2021-08-31,Celeri,Rose,49,32.924,G
+2021-09-01,Celeri,Rose,24,13.735,G
+2021-08-25,Cerise de terre,Cerise de terre,24,0.344,Passerelle
+2021-09-03,Cerise de terre,Cerise de terre,24,0.628,Passerelle
+2021-09-08,Cerise de terre,Cerise de terre,24,3.72,Passerelle
+2021-09-15,Cerise de terre,Cerise de terre,24,0.644,Passerelle
+2021-09-29,Cerise de terre,Cerise de terre,24,1.046,Passerelle
+2021-10-19,Cerise de terre,Cerise de terre,24,4.118,Passerelle
+2021-06-23,Chou-rave,Vert,135,29.962,G
+2021-06-29,Chou-rave,Vert,102,21.916,G
+2021-07-05,Chou-rave,Pourpre,86,8.117,G
+2021-07-12,Chou-rave,Pourpre,24,12.324,G
+2021-08-11,Chou-rave,Vert,52,13.886,G
+2021-08-18,Chou-rave,Chou-rave,24,11.16,G
+2021-08-23,Chou-rave,Quickstar,17,3.742,G
+2021-08-25,Chou-rave,Chou-rave,24,1.87,G
+2021-10-27,Chou-rave,Vert,24,0.762,Passerelle
+2021-06-29,Chou-rave (declasses),Chou-rave (declasses),24,11.264,G
+2021-07-21,Concombre,Salt & Pepper,16,3.124,B
+2021-07-21,Concombre,Pomme de Cristal,3,0.606,B
+2021-07-26,Concombre,Pomme de cristal,24,1.128,B
+2021-07-26,Concombre,Salt & Pepper,24,2.09,B
+2021-07-28,Concombre,Concombre,24,5.51,B
+2021-08-02,Concombre,Pomme de Cristal,24,2.138,B
+2021-08-03,Concombre,Pomme de Cristal,24,0.98,B
+2021-08-04,Concombre,Pomme de Cristal,24,0.114,G
+2021-08-04,Concombre,Salt & Pepper,24,3.106,B
+2021-08-04,Concombre,Pomme de Cristal,24,5.04,B
+2021-08-06,Concombre,Pomme de Cristal,24,6.36,B
+2021-08-06,Concombre,Salt & Pepper,24,1.55,B
+2021-08-09,Concombre,Salt & Pepper,24,1.532,B
+2021-08-09,Concombre,Pomme de Cristal,24,4.164,B
+2021-08-11,Concombre,Pomme de Cristal,24,3.999,B
+2021-08-11,Concombre,Salt & Pepper,24,0.87,B
+2021-08-13,Concombre,Pomme de Cristal,24,0.476,G
+2021-08-13,Concombre,Salt & Pepper,24,1.97,B
+2021-08-13,Concombre,Pomme de Cristal,24,3.26,B
+2021-08-16,Concombre,Salt & Pepper,24,1.572,B
+2021-08-16,Concombre,Pomme de Cristal,24,1.058,B
+2021-08-18,Concombre,Salt & Pepper,24,1.79,B
+2021-08-18,Concombre,Pomme de Cristal,24,4.574,B
+2021-06-25,Courgette,Courgette,24,1.9,B
+2021-06-29,Courgette,Courgette,24,0.156,B
+2021-07-05,Courgette,Courgette,24,3.8,B
+2021-07-06,Courgette,Courgette,24,4.75,B
+2021-07-07,Courgette,Courgette,24,7.238,B
+2021-07-13,Courgette,Courgette,24,3.692,B
+2021-07-14,Courgette,Courgette,24,7.066,B
+2021-07-20,Courgette,Courgette,24,6.168,B
+2021-07-20,Courgette,Courgette,24,20.592,B
+2021-07-21,Courgette,Courgette,6,0.504,B
+2021-07-26,Courgette,Courgette,24,7.286,B
+2021-07-28,Courgette,Courgette,24,4.1,B
+2021-07-30,Courgette,Courgette,24,0.424,B
+2021-09-01,Courgette,Jaune,24,0.362,G
+2021-09-03,Courgette,Jaune,24,0.21,G
+2021-09-20,Courgette,Jaune,24,0.838,G
+2021-08-18,Echalotte,Echalotte,24,1.492,Passerelle
+2021-08-25,Echalotte,Echalotte,24,4.844,Passerelle
+2021-09-09,Echalotte,Echalotte,24,14.106,Passerelle
+2021-10-27,Epinard,Epinard,24,0.78,A
+2021-09-02,Origan,Origan,24,0.398,Vertical
+2021-09-02,Shiso,Vert,24,1.632,Vertical
+2021-07-06,Fenouil,Fenouil,26,11.002,G
+2021-07-07,Fenouil,Fenouil,31,12.25,G
+2021-07-13,Fenouil,Fenouil,29,12.632,G
+2021-07-14,Fenouil,Fenouil,24,10.73,G
+2021-07-20,Fenouil,Fenouil,10,5,G
+2021-07-21,Fenouil,Fenouil,20,10.39,G
+2021-07-23,Fenouil,Fenouil,24,59.582,G
+2021-07-26,Fenouil,Fenouil,10,5.282,G
+2021-07-28,Fenouil,Fenouil,24,22.5,G
+2021-07-30,Fenouil,Fenouil,24,26.134,G
+2021-10-06,Ficoide,Ficoide,24,1.606,Vertical
+2021-10-13,Ficoide,Ficoide,24,7.25,G
+2021-07-05,Gadelle,Gadelle,24,1.226,Fruits
+2021-07-07,Gadelle,Gadelle,24,4.302,Fruits
+2021-07-14,Groseille,Groseille,24,7.9,Fruits
+2021-07-23,Groseille,Groseille,24,2.052,Fruits
+2021-06-29,Haricot,Vert,24,1.495,C et D
+2021-07-05,Haricot,Vert,24,6.11,C
+2021-07-06,Haricot,Vert,24,1.9,C et D
+2021-07-07,Haricot,Vert,24,4.888,C et D
+2021-07-13,Haricot,Vert,24,1.22,C et D
+2021-07-14,Haricot,Vert,24,7.53,C et D
+2021-07-21,Haricot,Vert,24,3.73,C
+2021-07-21,Haricot,Vert,24,4.924,D
+2021-08-27,Haricot,Mix,24,2.106,Vertical
+2021-09-03,Haricot,Vert,24,0.852,Vertical
+2021-09-03,Haricot,Pourpre,24,0.14,Vertical
+2021-08-11,Haricot (grimpant),Kentucky Blue,24,1.884,G
+2021-08-20,Haricot (grimpant),Vert,24,0.418,G
+2021-08-25,Haricot (grimpant),Vert,24,0.475,G
+2021-09-03,Haricot (grimpant),Vert,24,0.274,G
+2021-10-06,Haricot (grimpant),Vert,24,6.066,G
+2021-07-26,Haricot (nain),Vert,24,0.404,C
+2021-07-26,Haricot (nain),Vert,24,1.694,D
+2021-08-04,Haricot (nain),Vert,24,0.258,G
+2021-08-18,Haricot (nain),Vert,24,5.42,G
+2021-08-20,Haricot (nain),Vert,24,5.478,G
+2021-08-24,Haricot (nain),Vert,24,2.91,G
+2021-08-25,Haricot (nain),Vert,24,2.498,G
+2021-08-25,Haricot (nain),Vert,24,2.196,G
+2021-08-27,Haricot (nain),Vert,24,1.552,G
+2021-08-27,Haricot (nain),Jaune,24,0.294,D
+2021-09-01,Haricot (nain),Vert,24,5.834,G
+2021-09-01,Haricot (nain),Jaune,24,0.486,D
+2021-09-03,Haricot (nain),Vert,24,1.61,G
+2021-09-03,Haricot (nain),Jaune,24,0.626,C
+2021-09-03,Haricot (nain),Jaune,24,0.934,D
+2021-09-07,Haricot (nain),Jaune,24,0.69,C
+2021-09-08,Haricot (nain),Vert,24,0.566,G
+2021-09-08,Haricot (nain),Jaune,24,3.214,C
+2021-09-08,Haricot (nain),Jaune,24,1.454,D
+2021-09-08,Haricot (nain),Vert,24,6.528,G
+2021-09-13,Haricot (nain),Vert,24,12.478,G
+2021-09-13,Haricot (nain),Jaune,24,2.674,C
+2021-09-15,Haricot (nain),Vert,24,8.066,G
+2021-09-15,Haricot (nain),Vert,24,0.52,G
+2021-09-15,Haricot (nain),Jaune,24,3.478,D
+2021-09-15,Haricot (nain),Jaune,24,4.6,D
+2021-09-16,Haricot (nain),Jaune,24,1.822,D
+2021-09-16,Haricot (nain),Jaune,24,8.834,C
+2021-09-20,Haricot (nain),Jaune,24,3.31,D
+2021-09-20,Haricot (nain),Vert,24,7.938,G
+2021-09-20,Haricot (nain),Jaune,24,3.848,C
+2021-09-22,Haricot (nain),Vert,24,0.946,G
+2021-09-22,Haricot (nain),Jaune,24,1.354,D
+2021-09-22,Haricot (nain),Vert,24,4.488,G
+2021-09-22,Haricot (nain),Jaune,24,0.89,C
+2021-09-27,Haricot (nain),Vert,24,3.816,G
+2021-09-27,Haricot (nain),Jaune,24,1.012,C
+2021-09-29,Haricot (nain),Vert,24,8.198,G
+2021-09-29,Haricot (nain),Jaune,24,1.522,C
+2021-09-29,Haricot (nain),Jaune,24,2.958,D
+2021-10-06,Haricot (nain),Jaune,24,0.644,D
+2021-10-06,Haricot (nain),Jaune,24,1.148,C
+2021-10-06,Haricot (nain),Vert,24,4.258,G
+2021-10-06,Haricot (nain),Mix,24,1.864,Vertical
+2021-10-06,Haricot (nain),Mix,24,4.368,Vertical
+2021-10-13,Haricot (nain),Jaune,24,0.654,C
+2021-10-13,Haricot (nain),Jaune,24,0.528,D
+2021-10-13,Haricot (nain),Vert,24,6.504,G
+2021-10-05,Kiwi,Kiwi,24,0.088,Fruits
+2021-05-27,Laitue,Rouge,79,6.723,E
+2021-06-03,Laitue,Romaine verte,31,2.588,E
+2021-06-03,Laitue,Romaine rouge,24,2.432,E
+2021-06-03,Laitue,Feuille / frisee,61,8.166,E
+2021-06-07,Laitue,Romaine rouge,25,2.244,E
+2021-06-07,Laitue,Jester,33,3.678,E
+2021-06-07,Laitue,Romaine verte,34,2.245,E
+2021-06-07,Laitue,Boston rouge,22,2.298,E
+2021-06-07,Laitue,Feuille rouge,21,2.056,E
+2021-06-09,Laitue,Boston rouge,15,1.968,E
+2021-06-09,Laitue,Romaine rouge,20,2.304,E
+2021-06-09,Laitue,Jester,52,6.934,E
+2021-06-09,Laitue,Romaine verte,74,5.853,E
+2021-06-10,Laitue,Mix,279,40.776,E
+2021-07-05,Laitue,Feuille,14,3.802,Passerelle
+2021-07-13,Laitue,Feuille,12,3.25,Passerelle
+2021-07-14,Laitue,Feuille,23,7.428,Passerelle
+2021-07-20,Laitue,Feuille,10,2.592,G
+2021-07-21,Laitue,Feuille (Red Sail),11,1.396,Passerelle
+2021-07-21,Laitue,Rosaine,24,2.976,Passerelle
+2021-07-26,Laitue,Laitue,10,3.03,Passerelle ?
+2021-07-28,Laitue,Laitue,9,2.6,Passerelle ?
+2021-08-16,Laitue,Feuille,8,0.984,Passerelle
+2021-08-18,Laitue,Laitue,10,0.716,Passerelle
+2021-09-22,Laitue,Cegolaine,24,1.436,B
+2021-09-22,Laitue,Rosaine?,24,1.08,B
+2021-09-28,Laitue,Rosaine,41,3.814,B
+2021-09-28,Laitue,Cegolaine,41,5.718,B
+2021-10-01,Laitue,Laitue,24,0.166,Passerelle
+2021-10-01,Laitue,Laitue,24,1.368,Passerelle
+2021-09-02,Shiso,Rouge,24,0.61,Vertical
+2021-09-02,Thym,Thym,24,0.49,Vertical
+2021-09-07,Estragon,Mexicain,24,0.034,Vertical
+2021-09-07,Melisse,Melisse,24,0.064,Vertical
+2021-09-07,Sariette,Sariette,24,0.024,Vertical
+2021-09-07,Sauge,Sauge,24,0.11,Vertical
+2021-09-01,Mesclun,De crucifere de luxe,24,0.848,A
+2021-09-08,Mesclun,De luxe,24,1.938,A
+2021-09-16,Mesclun,De crucifere de luxe,24,0.694,A
+2021-09-22,Mesclun,Mesclun,24,0.7,A
+2021-09-22,Mesclun,Moutarde piquante,24,0.948,A
+2021-09-22,Mesclun,Melange,24,0.322,A
+2021-09-29,Mesclun,West coast,24,0.075,A
+2021-09-29,Mesclun,Crucifere de luxe,24,0.446,A
+2021-10-13,Mesclun,Crucifere de luxe,24,0.1,A
+2021-10-13,Mesclun,West Coast,24,0.65,A
+2021-08-04,Oignon,Gold Coin,24,2.54,A
+2021-08-09,Oignon,Gold Coin,24,0.548,A
+2021-08-11,Oignon,Gold Coin,24,9.936,A
+2021-08-18,Oignon,Gold Coin,24,16.884,A
+2021-08-25,Oignon,Gold Coin,24,23.128,A
+2021-08-31,Oignon,Gold Coin,24,17.92,A
+2021-09-07,Oignon,Gold Coin,24,8.316,A
+2021-09-14,Oignon,Gold Coin,24,8.578,A
+2021-09-14,Oignon,Gold Coin,24,5.958,Passerelle
+2021-10-01,Oignon,Gold Coin,24,0.232,Passerelle
+2021-09-07,Shiso,Vert,24,0.448,Vertical
+2021-09-07,Thym,Thym,24,0.264,Vertical
+2021-09-08,Shiso,Vert,24,0.312,Vertical
+2021-09-08,Thym,Thym,24,0.168,Vertical
+2021-09-13,Thym,Thym,24,0.074,Vertical
+2021-09-15,Origan,Origan,24,0.354,Vertical
+2021-09-15,Sariette,Sariette,24,0.274,Vertical
+2021-09-15,Shiso,Vert,24,0.364,Vertical
+2021-05-27,Pak Choi,Vert,24,4.63,G
+2021-05-27,Pak Choi,Pourpre,24,0.71,G
+2021-08-23,Pak Choi,Pak Choi,13,1.388,B
+2021-08-25,Pak Choi,Pak Choi,24,1.204,B
+2021-08-27,Pak Choi,Pak Choi,24,5.42,B
+2021-08-12,Peche,Coral Star,4,0.856,Fruits
+2021-08-12,Peche,Canadian Harmony,7,1.19,Fruits
+2021-09-15,Thym,Thym,24,0.268,Vertical
+2021-09-16,Liveche,Liveche,24,0.688,Vertical
+2021-09-16,Origan,Origan,24,0.242,Vertical
+2021-08-25,Piment,Cayenne,24,0.47,D
+2021-08-27,Piment,Cayenne,24,0.154,D
+2021-08-27,Piment,Jalapeno,24,0.078,D
+2021-08-30,Piment,Jalapeno,24,0.162,D
+2021-08-30,Piment,Cayenne,24,0.23,D
+2021-08-30,Piment,Cayenne,24,0.262,E
+2021-09-01,Piment,Cayenne,24,0.316,D
+2021-09-01,Piment,Jalapeno,24,0.136,D
+2021-09-03,Piment,Cayenne,24,0.226,D
+2021-09-03,Piment,Jalapeno,24,0.2,D
+2021-09-03,Piment,Cayenne,24,0.248,E
+2021-09-07,Piment,Cayenne,24,0.534,D
+2021-09-07,Piment,Jalapeno,24,0.188,D
+2021-09-09,Piment,Cayenne,24,0.738,E
+2021-09-09,Piment,Cayenne,24,0.364,D
+2021-09-09,Piment,Jalapeno,24,0.236,D
+2021-09-16,Piment,Jalapeno,24,0.992,D
+2021-09-16,Piment,Cayenne,24,0.946,D
+2021-09-16,Piment,Cayenne,24,1.222,E
+2021-09-20,Piment,Jalapeno,24,1.088,D
+2021-09-22,Piment,Cayenne,24,1.48,E
+2021-09-22,Piment,Jalapeno,24,0.796,D
+2021-09-22,Piment,Cayenne,24,0.902,D
+2021-09-23,Piment,Cayenne,24,0.544,E
+2021-09-23,Piment,Cayenne,24,0.096,D
+2021-09-23,Piment,Jalapeno,24,0.144,D
+2021-09-30,Piment,Cayenne,24,0.584,D
+2021-09-30,Piment,Jalapeno,24,0.364,D
+2021-09-30,Piment,Cayenne,24,1.164,E
+2021-10-07,Piment,Cayenne,24,0.892,E
+2021-10-07,Piment,Jalapeno,24,1.608,D
+2021-10-07,Piment,Cayenne,24,0.404,D
+2021-10-14,Piment,Jalapeno,24,1.528,D
+2021-10-14,Piment,Cayenne,24,0.348,D
+2021-10-14,Piment,Cayenne,24,0.964,E
+2021-10-22,Piment,Jalapeno,24,0.438,D
+2021-10-22,Piment,Cayenne,24,0.19,D
+2021-10-22,Piment,Cayenne,24,0.446,E
+2021-10-25,Piment,Cayenne,24,0.708,D
+2021-10-25,Piment,Jalapeno,24,2.57,D
+2021-10-25,Piment,Cayenne,24,0.932,E
+2021-10-26,Piment,Jalapeno,24,2.6,E
+2021-10-26,Piment,Cayenne,24,1.6,D
+2021-09-16,Piment fort,Lemon Drop,24,0.974,E
+2021-09-16,Piment fort,Habanero Chocolate,24,0.698,E
+2021-09-16,Piment fort,Trinidad Scorpion,24,0.078,E
+2021-09-16,Piment fort,Bhut Jolokia,24,0.008,E
+2021-09-22,Piment fort,Lemon Drop,24,1.974,E
+2021-09-22,Piment fort,Bhut Jolokia,24,0.06,E
+2021-09-22,Piment fort,Habanero Chocolate,24,0.47,E
+2021-09-22,Piment fort,Trinidad Scorpion,24,0.15,E
+2021-09-30,Piment fort,Trinidad Scorpion,24,0.336,E
+2021-09-30,Piment fort,Bhut Jolokia,24,0.268,E
+2021-09-30,Piment fort,Lemon Drop,24,4.118,E
+2021-09-30,Piment fort,Habanero Chocolate,24,3.126,E
+2021-10-07,Piment fort,Bhut Jolokia,24,0.596,E
+2021-10-07,Piment fort,Trinidad Scorpion,24,0.844,E
+2021-10-07,Piment fort,Habanero Chocolate,24,2.76,E
+2021-10-07,Piment fort,Lemon Drop,24,4.046,E
+2021-10-13,Piment fort,Lemon Drop,24,4.476,E
+2021-10-13,Piment fort,Habanero Chocolate,24,1.968,E
+2021-10-13,Piment fort,Trinidad Scorpion,24,1.262,E
+2021-10-13,Piment fort,Bhut Jolokia,24,0.734,E
+2021-10-22,Piment fort,Bhut Jolokia,24,0.946,E
+2021-10-22,Piment fort,Trinidad Scorpion,24,1.018,E
+2021-10-22,Piment fort,Lemon Drop,24,4.064,E
+2021-10-22,Piment fort,Habanero Chocolate,24,2.85,E
+2021-10-22,Piment fort,Lemon Drop,24,10.58,E
+2021-10-25,Piment fort,Bhut Jolokia,24,4.596,E
+2021-10-25,Piment fort,Trinidad Scorpion,24,1.21,E
+2021-10-25,Piment fort,Habanero Chocolate,24,2.776,E
+2021-10-25,Piment fort,Lemon Drop,24,8.558,E
+2021-10-26,Piment fort,Lemon Drop,24,19.2,E
+2021-10-26,Piment fort,Habanero Chocolate,24,2.9,E
+2021-10-26,Piment fort,Trinidad Scorpion,24,1.3,E
+2021-10-26,Piment fort,Bhut Jolokia,24,4.8,E
+2021-06-23,Pois,Pois,24,0.186,Passerelle
+2021-06-29,Pois,Pois,24,0.576,Passerelle
+2021-07-05,Pois,Pois,24,0.336,Passerelle
+2021-08-13,Poivron,Hongrois orange,24,0.314,D
+2021-08-16,Poivron,Orange Sweet,24,0.402,D
+2021-08-16,Poivron,Cupid,24,0.812,D
+2021-08-16,Poivron,Aura jaune ?,24,0.26,D
+2021-08-18,Poivron,Cupid,24,1.428,G
+2021-08-18,Poivron,Aura,24,0.074,G
+2021-08-18,Poivron,Orange Sweet,24,0.972,D
+2021-08-18,Poivron,Hongrois orange,24,0.254,D
+2021-08-18,Poivron,Hongrois rouge,24,0.22,D
+2021-08-18,Poivron,Cupid,24,2.056,D
+2021-08-18,Poivron,Aura,24,1.442,D
+2021-08-18,Poivron,Aura jaune,24,0.392,D
+2021-08-18,Poivron,Carmen,24,1.102,D
+2021-08-20,Poivron,Cupid,24,1.69,G
+2021-08-20,Poivron,Carmen,24,1.924,D
+2021-08-20,Poivron,Cupid,24,0.776,D
+2021-08-20,Poivron,Aura,24,1.642,D
+2021-08-20,Poivron,Hongrois rouge,24,0.758,D
+2021-08-23,Poivron,Carmen,24,4.232,D
+2021-08-23,Poivron,Aura jaune,24,2.364,D
+2021-08-23,Poivron,Aura orange,24,2.202,D
+2021-08-23,Poivron,Hongrois orange,24,1.982,D
+2021-08-23,Poivron,Hongrois rouge,24,1.104,D
+2021-08-23,Poivron,Cupid,24,1.748,D
+2021-08-25,Poivron,Hongrois rouge,24,3.014,D
+2021-08-25,Poivron,Rouge,24,2.692,D
+2021-08-25,Poivron,Cupid,24,2.11,D
+2021-08-25,Poivron,Hongrois orange,24,2.312,D
+2021-08-25,Poivron,Aura jaune,24,4.218,D
+2021-08-25,Poivron,Aura orange,24,0.91,D
+2021-08-25,Poivron,Carmen,24,1.534,D
+2021-08-25,Poivron,Twingo,24,0.774,D
+2021-08-25,Poivron,Cupid,24,3.3,G
+2021-08-27,Poivron,Escamillo,24,2.646,D
+2021-08-27,Poivron,Twingo,24,0.932,D
+2021-08-27,Poivron,Carmen,24,1.658,D
+2021-08-27,Poivron,Aura jaune,24,0.544,D
+2021-08-27,Poivron,Aura orange,24,0.26,D
+2021-08-27,Poivron,Hongrois orange,24,0.702,D
+2021-08-27,Poivron,Hongrois rouge,24,0.364,D
+2021-08-27,Poivron,Cupid,24,1.668,D
+2021-08-27,Poivron,Rouge,24,0.352,D
+2021-08-27,Poivron,Cupid,24,0.894,G
+2021-08-30,Poivron,Carmen,24,2.664,D
+2021-08-30,Poivron,Twingo,24,0.89,D
+2021-08-30,Poivron,Escamillo,24,1.506,D
+2021-08-30,Poivron,Aura jaune,24,1.534,D
+2021-08-30,Poivron,Rouge,24,2.586,D
+2021-08-30,Poivron,Hongrois orange,24,1.772,D
+2021-08-30,Poivron,Hongrois rouge,24,1.678,D
+2021-08-30,Poivron,Aura orange,24,0.664,D
+2021-08-30,Poivron,Cupid,24,2.672,D
+2021-08-30,Poivron,Aura,24,1.048,G
+2021-08-30,Poivron,Cupid,24,0.81,G
+2021-09-01,Poivron,Carmen,24,1.58,D
+2021-09-01,Poivron,Twingo,24,1.734,D
+2021-09-01,Poivron,Rouge,24,2.802,D
+2021-09-01,Poivron,Hongrois rouge,24,2.478,D
+2021-09-01,Poivron,Hongrois orange,24,0.586,D
+2021-09-01,Poivron,Aura orange,24,0.666,D
+2021-09-01,Poivron,Cupid,24,3.338,D
+2021-09-01,Poivron,Aura jaune,24,2.08,D
+2021-09-03,Poivron,Aura jaune,24,1.324,G
+2021-09-03,Poivron,Cupid,24,1.464,G
+2021-09-03,Poivron,Cupid,24,0.862,D
+2021-09-03,Poivron,Aura jaune,24,0.484,D
+2021-09-03,Poivron,Aura orange,24,0.108,D
+2021-09-03,Poivron,Hongrois orange,24,0.174,D
+2021-09-03,Poivron,Hongrois rouge,24,0.838,D
+2021-09-03,Poivron,Rouge,24,0.528,D
+2021-09-03,Poivron,Twingo,24,0.246,D
+2021-09-07,Poivron,Carmen,24,0.29,D
+2021-09-07,Poivron,Rouge,24,0.75,D
+2021-09-07,Poivron,Twingo,24,1.578,D
+2021-09-07,Poivron,Escamillo,24,1.222,D
+2021-09-07,Poivron,Hongrois rouge,24,1.808,D
+2021-09-07,Poivron,Hongrois orange,24,0.57,D
+2021-09-07,Poivron,Aura jaune,24,1.738,D
+2021-09-07,Poivron,Cupid,24,2.882,D
+2021-09-08,Poivron,Aura jaune,24,0.194,G
+2021-09-08,Poivron,Cupid,24,1.652,G
+2021-09-08,Poivron,Twingo,24,1.904,D
+2021-09-08,Poivron,Carmen,24,0.115,D
+2021-09-08,Poivron,Aura jaune,24,1.66,D
+2021-09-08,Poivron,Escamillo,24,0.268,D
+2021-09-08,Poivron,Aura orange,24,0.544,D
+2021-09-08,Poivron,Rouge,24,0.566,D
+2021-09-08,Poivron,Hongrois rouge,24,2.584,D
+2021-09-08,Poivron,Cupid,24,1.748,D
+2021-09-13,Poivron,Carmen,24,0.75,D
+2021-09-13,Poivron,Twingo,24,1.048,D
+2021-09-13,Poivron,Escamillo,24,0.108,D
+2021-09-13,Poivron,Aura jaune,24,1.908,D
+2021-09-13,Poivron,Aura orange,24,0.242,D
+2021-09-13,Poivron,Cupid,24,2.108,D
+2021-09-13,Poivron,Rouge,24,0.272,D
+2021-09-13,Poivron,Hongrois orange,24,0.444,D
+2021-09-13,Poivron,Hongrois rouge,24,1.342,D
+2021-09-13,Poivron,Cupid,24,2.858,G
+2021-09-13,Poivron,Aura,24,0.082,G
+2021-09-15,Poivron,Carmen,24,2.87,D
+2021-09-15,Poivron,Escamillo,24,0.292,D
+2021-09-15,Poivron,Twingo,24,1.026,D
+2021-09-15,Poivron,Rouge,24,0.698,D
+2021-09-15,Poivron,Hongrois rouge,24,1.918,D
+2021-09-15,Poivron,Hongrois orange,24,0.524,D
+2021-09-15,Poivron,Cupid,24,1.778,D
+2021-09-15,Poivron,Aura jaune,24,1.23,D
+2021-09-15,Poivron,Aura orange,24,1.304,D
+2021-09-15,Poivron,Cupid,24,3.212,G
+2021-09-20,Poivron,Rouge,24,0.838,D
+2021-09-20,Poivron,Hongrois rouge,24,0.254,D
+2021-09-20,Poivron,Cupid,24,1.192,D
+2021-09-20,Poivron,Aura jaune,24,0.998,D
+2021-09-20,Poivron,Carmen,24,1.954,D
+2021-09-20,Poivron,Escamillo,24,0.96,D
+2021-09-20,Poivron,Twingo,24,0.994,D
+2021-09-20,Poivron,Aura orange,24,0.162,D
+2021-09-22,Poivron,Aura jaune,24,0.828,G
+2021-09-22,Poivron,Cupid,24,5.206,G
+2021-09-22,Poivron,Carmen,24,0.202,D
+2021-09-22,Poivron,Escamillo,24,0.884,D
+2021-09-22,Poivron,Aura jaune,24,0.138,D
+2021-09-22,Poivron,Twingo,24,0.53,D
+2021-09-22,Poivron,Rouge,24,0.514,D
+2021-09-22,Poivron,Hongrois rouge,24,0.104,D
+2021-09-22,Poivron,Cupid,24,0.29,D
+2021-09-27,Poivron,Cupid,24,2.216,G
+2021-09-27,Poivron,Aura,24,0.466,G
+2021-09-27,Poivron,Carmen,24,0.548,D
+2021-09-27,Poivron,Twingo,24,1.256,D
+2021-09-27,Poivron,Escamillo,24,0.512,D
+2021-09-27,Poivron,Aura jaune,24,0.49,D
+2021-09-27,Poivron,Aura orange,24,0.476,D
+2021-09-27,Poivron,Cupid,24,0.378,D
+2021-09-27,Poivron,Hongrois orange,24,0.172,D
+2021-09-29,Poivron,Aura,24,0.82,G
+2021-09-29,Poivron,Cupid,24,1.664,G
+2021-09-29,Poivron,Escamillo,24,0.104,D
+2021-09-29,Poivron,Carmen,24,0.814,D
+2021-09-29,Poivron,Twingo,24,1.058,D
+2021-09-29,Poivron,Hongrois rouge,24,0.162,D
+2021-09-29,Poivron,Aura jaune,24,0.444,D
+2021-09-29,Poivron,Aura orange,24,0.236,D
+2021-09-29,Poivron,Rouge,24,0.296,D
+2021-09-29,Poivron,Jalapeno,24,1.304,D
+2021-09-29,Poivron,Cupid,24,0.486,D
+2021-10-06,Poivron,Hongrois rouge,24,0.304,D
+2021-10-06,Poivron,Hongrois orange,24,0.03,D
+2021-10-06,Poivron,Rouge,24,0.536,D
+2021-10-06,Poivron,Aura jaune,24,0.506,D
+2021-10-06,Poivron,Escamillo,24,0.772,D
+2021-10-06,Poivron,Twingo,24,1.544,D
+2021-10-06,Poivron,Carmen,24,0.96,D
+2021-10-06,Poivron,Aura orange,24,0.472,D
+2021-10-06,Poivron,Cupid,24,0.428,D
+2021-10-06,Poivron,Aura,24,1.074,G
+2021-10-06,Poivron,Cupid,24,1.852,G
+2021-10-13,Poivron,Rouge,24,0.768,D
+2021-10-13,Poivron,Hongrois orange,24,0.17,D
+2021-10-13,Poivron,Hongrois rouge,24,0.134,D
+2021-10-13,Poivron,Cupid,24,0.638,D
+2021-10-13,Poivron,Aura orange,24,0.434,D
+2021-10-13,Poivron,Aura jaune,24,0.424,D
+2021-10-13,Poivron,Escamillo,24,1.694,D
+2021-10-13,Poivron,Twingo,24,5.292,D
+2021-10-13,Poivron,Carmen,24,2.186,D
+2021-10-13,Poivron,Aura,24,1.488,G
+2021-10-13,Poivron,Cupid,24,3.188,G
+2021-10-14,Poivron,Twingo,24,6.788,D
+2021-10-14,Poivron,Carmen,24,2.718,D
+2021-10-14,Poivron,Escamillo,24,1.738,D
+2021-10-14,Poivron,Aura,24,5.39,D
+2021-10-18,Poivron,Cupid,24,1.644,G
+2021-10-18,Poivron,Cupid,24,8.486,G
+2021-10-18,Poivron,Aura,24,2.448,G
+2021-10-18,Poivron,Cupid,24,0.396,D
+2021-10-18,Poivron,Cupid,24,4.208,D
+2021-10-19,Poivron,Aura,24,2.874,D
+2021-10-19,Poivron,Hongrois orange,24,1.23,D
+2021-10-19,Poivron,Rouge,24,0.75,D
+2021-10-19,Poivron,Rouge,24,0.86,D
+2021-10-19,Poivron,Hongrois rouge,24,0.166,D
+2021-10-19,Poivron,Hongrois rouge,24,1.208,D
+2021-05-27,Radis,Sora,24,6.4,A
+2021-05-27,Radis,French Breakfast,24,4.34,A
+2021-06-03,Radis,Pink Beauty,24,2.26,A
+2021-06-03,Radis,Sora,24,3.152,A
+2021-06-03,Radis,French Breakfast,24,2.06,A
+2021-06-07,Radis,Sora,24,2.442,A
+2021-06-07,Radis,Pink Beauty,24,2.068,A
+2021-06-09,Radis,French Breakfast,24,2.82,A
+2021-06-09,Radis,Pink Beauty,24,2.882,A
+2021-09-16,Persil,Plat,24,0.096,Vertical
+2021-09-16,Sariette,Sariette,24,0.068,Vertical
+2021-09-16,Sauge,Sauge,24,0.362,Vertical
+2021-09-16,Shiso,Vert,24,0.808,Vertical
+2021-09-16,Thym,Thym,24,0.158,Vertical
+2021-09-20,Origan,Origan,24,0.078,Vertical
+2021-09-20,Sariette,Sariette,24,0.08,Vertical
+2021-09-20,Thym,Thym,24,0.086,Vertical
+2021-09-22,Menthe,Menthe,24,0.25,Vertical
+2021-09-22,Origan,Origan,24,0.096,Vertical
+2021-09-22,Sariette,Sariette,24,0.07,Vertical
+2021-09-22,Shiso,Vert,24,0.278,Vertical
+2021-09-22,Shiso,Rouge,24,0.54,Vertical
+2021-09-22,Thym,Thym,24,0.078,Vertical
+2021-09-29,Menthe,Menthe,24,0.952,Vertical
+2021-09-29,Origan,Origan,24,0.66,Vertical
+2021-09-29,Sariette,Sariette,24,1.36,Vertical
+2021-09-29,Sauge,Sauge,24,1.438,Vertical
+2021-09-29,Shiso,Rouge,24,0.964,Vertical
+2021-09-29,Shiso,Vert,24,1.25,Vertical
+2021-10-04,Tagete,Tagete,24,0.098,Vertical
+2021-10-05,Tagete,Tagete,24,0.456,Vertical
+2021-10-06,Tagete,Tagete,24,0.044,Vertical
+2021-09-29,Thym,Thym,24,1.058,Vertical
+2021-10-01,Persil,Frise,24,1.848,Vertical
+2021-10-01,Persil,Plat,24,3.88,Vertical
+2021-10-05,Origan,Origan,24,0.22,Vertical
+2021-10-05,Shiso,Vert,24,0.686,Vertical
+2021-10-06,Liveche,Liveche,24,1.988,Vertical
+2021-10-06,Origan,Origan,24,0.368,Vertical
+2021-10-06,Thym,Thym,24,0.032,Vertical
+2021-10-07,Estragon,Mexicain,24,0.63,Vertical
+2021-10-07,Melisse,Melisse,24,0.542,Vertical
+2021-07-14,Tomate,Tomate,24,1.974,C
+2021-07-21,Tomate,Tomate,24,0.154,G
+2021-07-21,Tomate,Tomate,24,3.316,C
+2021-07-28,Tomate,Eva Purple Ball,24,0.87,G
+2021-07-28,Tomate,Jaune flambee,24,2.098,G
+2021-07-28,Tomate,Don Juan,24,0.29,C
+2021-07-28,Tomate,Tasmanian Chocolate,24,1.736,C
+2021-07-28,Tomate,Fiaschetto,24,0.648,C
+2021-07-28,Tomate,Siberienne rose,24,8.048,C
+2021-07-28,Tomate,Glacier ?,24,7.352,C
+2021-07-30,Tomate,Glacier,24,3.582,C
+2021-07-30,Tomate,Fiaschetto,24,0.61,C
+2021-07-30,Tomate,Siberienne rose,24,5.86,C
+2021-08-02,Tomate,Tasmanian Chocolate,24,2.42,C
+2021-08-02,Tomate,Don Juan,24,0.25,C
+2021-08-02,Tomate,Siberienne rose,24,3.05,C
+2021-08-02,Tomate,Fiaschetto,24,1.5,C
+2021-08-02,Tomate,Glacier,24,0.725,C
+2021-08-02,Tomate,Eva Purple Ball,24,1.85,G
+2021-08-02,Tomate,Jaune flambee,24,1.82,G
+2021-08-04,Tomate,Earl of Edgecomb,24,0.264,C
+2021-08-04,Tomate,Golden Queen,24,3.142,C
+2021-08-04,Tomate,Don Juan,24,0.34,C
+2021-08-04,Tomate,Siberienne rose,24,3.761,C
+2021-08-04,Tomate,Faschietto,24,2.094,C
+2021-08-04,Tomate,Tasmanian Chocolate,24,2.006,C
+2021-08-04,Tomate,Glacier,24,1.9,C
+2021-08-04,Tomate,Jaune,24,0.99,C
+2021-08-04,Tomate,Eva Purple Ball,24,1.745,G
+2021-08-04,Tomate,Jaune flambee,24,1.924,G
+2021-08-06,Tomate,Eva Purple Ball,24,0.978,G
+2021-08-06,Tomate,Jaune flambee,24,1.414,G
+2021-08-06,Tomate,Glacier,24,4.088,C
+2021-08-06,Tomate,Earl of Edgecomb,24,2.908,C
+2021-08-06,Tomate,Golden Queen,24,6.342,C
+2021-08-06,Tomate,Tasmanian Chocolate,24,2.506,C
+2021-08-06,Tomate,Don Juan,24,0.376,C
+2021-08-06,Tomate,Fiaschetto,24,2.79,C
+2021-08-06,Tomate,Siberienne rose,24,10.292,C
+2021-08-09,Tomate,Eva Purple Ball,24,1.946,G
+2021-08-09,Tomate,Jaune flambee,24,2.07,G
+2021-08-09,Tomate,Don Juan,24,2.352,C
+2021-08-09,Tomate,Tasmanian Chocolate,24,4.819,C
+2021-08-09,Tomate,Fiaschetto,24,6.067,C
+2021-08-09,Tomate,Earl of Edgecomb,24,6.044,C
+2021-08-09,Tomate,Golden Queen,24,11.021,C
+2021-08-09,Tomate,Glacier,24,10.452,C
+2021-08-09,Tomate,Galina,24,0.102,C
+2021-08-09,Tomate,Siberienne rose,24,7.098,C
+2021-08-10,Tomate,Earl of Edgecomb,24,2.118,C
+2021-08-11,Tomate,Eva Purple Ball,24,1.75,G
+2021-08-11,Tomate,Jaune flambee,24,2.072,G
+2021-08-11,Tomate,Earl of Edgecomb,24,10.46,C
+2021-08-11,Tomate,Jaune flambee ?,24,2.072,C
+2021-08-11,Tomate,Glacier,24,5.82,C
+2021-08-11,Tomate,Tasmanian Chocolate,24,3.416,C
+2021-08-11,Tomate,Golden Queen,24,9.414,C
+2021-08-11,Tomate,Siberienne rose,24,5.155,C
+2021-08-11,Tomate,Don Juan,24,1.195,C
+2021-08-11,Tomate,Fiaschetto,24,2.057,C
+2021-08-13,Tomate,Eva Purple Ball,24,1.198,G
+2021-08-13,Tomate,Jaune flambee,24,1.098,G
+2021-08-13,Tomate,Don Juan,24,1.21,C
+2021-08-13,Tomate,Tasmanian Chocolate,24,3.346,C
+2021-08-13,Tomate,Fiaschetto,24,3.794,C
+2021-08-13,Tomate,Siberienne rose,24,8.466,C
+2021-08-13,Tomate,Earl of Edgecomb,24,12.478,C
+2021-08-13,Tomate,Golden Queen,24,6.744,C
+2021-08-13,Tomate,Glacier,24,6.534,C
+2021-08-16,Tomate,Siberienne rose,24,11.478,C
+2021-08-16,Tomate,Don Juan,24,0.52,C
+2021-08-16,Tomate,Tasmanian Chocolate,24,0.382,C
+2021-08-16,Tomate,Eva Purple Ball,24,1.022,G
+2021-08-16,Tomate,Jaune flambee,24,1.604,G
+2021-08-16,Tomate,Earl of Edgecomb,24,4.114,C
+2021-08-16,Tomate,Golden Queen,24,4.644,C
+2021-08-16,Tomate,Fiaschetto,24,1.198,C
+2021-08-16,Tomate,Glacier,24,2.842,C
+2021-08-18,Tomate,Don Juan,24,5.51,C
+2021-08-18,Tomate,Tasmanian Chocolate,24,8.116,C
+2021-08-18,Tomate,Fiaschetto,24,6.49,C
+2021-08-18,Tomate,Siberienne rose,24,9.156,C
+2021-08-18,Tomate,Eva Purple Ball,24,1.662,G
+2021-08-18,Tomate,Jaune flambee,24,0.848,G
+2021-08-20,Tomate,Golden Queen,24,3.704,C
+2021-08-20,Tomate,Earl of Edgecomb,24,9.97,C
+2021-08-20,Tomate,Siberienne rose,24,11.078,C
+2021-08-20,Tomate,Glacier,24,7.134,C
+2021-08-20,Tomate,Tasmanian Chocolate,24,4.5,C
+2021-08-20,Tomate,Don Juan,24,1.722,C
+2021-08-20,Tomate,Fiaschetto,24,1.292,C
+2021-08-23,Tomate,Don Juan,24,6.55,C
+2021-08-23,Tomate,Tasmanian Chocolate,24,5.158,C
+2021-08-23,Tomate,Fiaschetto,24,5.14,C
+2021-08-23,Tomate,Earl of Edgecomb,24,7.728,C
+2021-08-23,Tomate,Golden Queen,24,11.332,C
+2021-08-23,Tomate,Siberienne rose,24,11.958,C
+2021-08-23,Tomate,Glacier,24,6.822,C
+2021-08-25,Tomate,Eva Purple Ball,24,3.91,G
+2021-08-25,Tomate,Jaune flambee,24,2.13,G
+2021-08-25,Tomate,Don Juan,24,8.5,C
+2021-08-25,Tomate,Tasmanian Chocolate,24,4.06,C
+2021-08-25,Tomate,Fiaschetto,24,2.568,C
+2021-08-25,Tomate,Siberienne rose,24,5.366,C
+2021-08-25,Tomate,Earl of Edgecomb,24,2.768,C
+2021-08-25,Tomate,Glacier,24,3.984,C
+2021-08-25,Tomate,Golden Queen,24,6.83,C
+2021-08-27,Tomate,Don Juan,24,2.432,C
+2021-08-27,Tomate,Fiaschetto,24,1.388,C
+2021-08-27,Tomate,Tasmanian Chocolate,24,3.456,C
+2021-08-27,Tomate,Siberienne rose,24,3.788,C
+2021-08-27,Tomate,Glacier,24,2.652,C
+2021-08-27,Tomate,Golden Queen,24,1.692,C
+2021-08-27,Tomate,Earl of Edgecomb,24,1.03,C
+2021-08-30,Tomate,Don Juan,24,1.43,C
+2021-08-30,Tomate,Tasmanian Chocolate,24,0.28,C
+2021-08-30,Tomate,Fiaschetto,24,1.824,C
+2021-08-30,Tomate,Earl of Edgecomb,24,3.46,C
+2021-08-30,Tomate,Golden Queen,24,4.186,C
+2021-08-30,Tomate,Eva Purple Ball,24,1.942,G
+2021-08-30,Tomate,Jaune flambee,24,1.742,G
+2021-09-01,Tomate,Don Juan,24,7.17,C
+2021-09-01,Tomate,Tasmanian Chocolate,24,2.116,C
+2021-09-01,Tomate,Siberienne rose,24,11.96,C
+2021-09-01,Tomate,Glacier,24,8.922,C
+2021-09-01,Tomate,Golden Queen,24,5.046,C
+2021-09-01,Tomate,Earl of Edgecomb,24,2.378,C
+2021-09-01,Tomate,Fiaschetto,24,1.332,C
+2021-09-03,Tomate,Eva Purple Ball,24,2.116,G
+2021-09-03,Tomate,Jaune flambee,24,3.284,G
+2021-09-03,Tomate,Siberienne rose,24,3.24,C
+2021-09-07,Tomate,Tasmanian Chocolate,24,1.778,C
+2021-09-07,Tomate,Don Juan,24,3.286,C
+2021-09-07,Tomate,Golden Queen,24,9.588,C
+2021-09-07,Tomate,Jaune flambee,24,1.392,G
+2021-09-07,Tomate,Earl of Edgecomb,24,0.838,C
+2021-09-07,Tomate,Siberienne rose,24,0.62,C
+2021-09-07,Tomate,Glacier,24,0.176,C
+2021-09-08,Tomate,Eva Purple Ball,24,0.34,G
+2021-09-08,Tomate,Jaune flambee,24,0.278,G
+2021-09-08,Tomate,Fiaschetto,24,2.044,C
+2021-09-08,Tomate,Tasmanian Chocolate,24,4.33,C
+2021-09-08,Tomate,Don Juan,24,2.478,C
+2021-09-08,Tomate,Siberienne rose,24,6.362,C
+2021-09-08,Tomate,Golden Queen,24,3.25,C
+2021-09-08,Tomate,Earl of Edgecomb,24,2.062,C
+2021-09-08,Tomate,Glacier,24,4.808,C
+2021-09-13,Tomate,Don Juan,24,2.462,C
+2021-09-13,Tomate,Tasmanian Chocolate,24,2.732,C
+2021-09-13,Tomate,Golden Queen,24,7.578,C
+2021-09-13,Tomate,Earl of Edgecomb,24,2.73,C
+2021-09-15,Tomate,Eva Purple Ball,24,1.556,G
+2021-09-15,Tomate,Jaune flambee,24,1.482,G
+2021-09-15,Tomate,Don Juan,24,2.878,C
+2021-09-15,Tomate,Tasmanian Chocolate,24,5.978,C
+2021-09-15,Tomate,Fiaschetto,24,1.804,C
+2021-09-15,Tomate,Siberienne rose,24,8.26,C
+2021-09-15,Tomate,Earl of Edgecomb,24,3.656,C
+2021-09-15,Tomate,Golden Queen,24,6.448,C
+2021-09-16,Tomate,Glacier,24,5.97,C
+2021-09-16,Tomate,Earl of Edgecomb,24,0.586,C
+2021-09-16,Tomate,Golden Queen,24,0.232,C
+2021-09-20,Tomate,Don Juan,24,0.992,C
+2021-09-20,Tomate,Tasmanian Chocolate,24,2.872,C
+2021-09-20,Tomate,Earl of Edgecomb,24,1.932,C
+2021-09-20,Tomate,Golden Queen,24,5.788,C
+2021-09-20,Tomate,Eva Purple Ball,24,1.146,G
+2021-09-22,Tomate,Eva Purple Ball,24,1.082,G
+2021-09-22,Tomate,Jaune flambee,24,2.442,G
+2021-09-22,Tomate,Golden Queen,24,3.448,C
+2021-09-22,Tomate,Siberienne rose,24,6.492,C
+2021-09-22,Tomate,Tasmanian Chocolate,24,2.69,C
+2021-09-22,Tomate,Fiaschetto,24,2.44,C
+2021-09-22,Tomate,Glacier,24,3.758,C
+2021-09-22,Tomate,Earl of Edgecomb,24,1.196,C
+2021-09-27,Tomate,Don Juan,24,0.916,C
+2021-09-27,Tomate,Tasmanian Chocolate,24,2.17,C
+2021-09-27,Tomate,Golden Queen,24,2.954,C
+2021-09-27,Tomate,Earl of Edgecomb,24,1.698,C
+2021-09-27,Tomate,Eva Purple Ball,24,2.076,G
+2021-09-27,Tomate,Jaune flambee,24,2.088,G
+2021-09-29,Tomate,Eva Purple Ball,24,0.422,G
+2021-09-29,Tomate,Jaune flambee,24,1.434,G
+2021-09-29,Tomate,Fiaschetto,24,2.016,C
+2021-09-29,Tomate,Tasmanian Chocolate,24,3.22,C
+2021-09-29,Tomate,Don Juan,24,1.366,C
+2021-09-29,Tomate,Siberienne rose,24,5.354,C
+2021-09-29,Tomate,Golden Queen,24,0.576,C
+2021-09-29,Tomate,Glacier,24,1.068,C
+2021-10-06,Tomate,Eva Purple Ball,24,0.968,G
+2021-10-06,Tomate,Jaune flambee,24,0.552,G
+2021-10-06,Tomate,Glacier,24,2.36,C
+2021-10-06,Tomate,Earl of Edgecomb,24,1.032,C
+2021-10-06,Tomate,Golden Queen,24,3.698,C
+2021-10-06,Tomate,Tasmanian Chocolate,24,2.5,C
+2021-10-06,Tomate,Fiaschetto,24,1.566,C
+2021-10-06,Tomate,Siberienne rose,24,3.482,C
+2021-10-06,Tomate,Don Juan,24,0.82,C
+2021-10-13,Tomate,Tasmanian Chocolate,24,5.592,C
+2021-10-13,Tomate,Don Juan,24,0.868,C
+2021-10-13,Tomate,Golden Queen,24,4.538,C
+2021-10-13,Tomate,Earl of Edgecomb,24,2.632,C
+2021-10-13,Tomate,Siberienne rose,24,3.668,C
+2021-10-13,Tomate,Fiaschetto,24,2.02,C
+2021-10-13,Tomate,Eva Purple Ball,24,1.174,G
+2021-10-13,Tomate,Jaune flambee,24,1.02,G
+2021-10-14,Tomate,Tasmanian Chocolate,24,12.948,C
+2021-10-14,Tomate,Don Juan,24,4.438,C
+2021-10-14,Tomate,Fiaschetto,24,5.204,C
+2021-10-14,Tomate,Siberienne rose,24,8.408,C
+2021-10-14,Tomate,Golden Queen,24,4.324,C
+2021-10-18,Tomate,Eva Purple Ball,24,1.346,G
+2021-10-18,Tomate,Eva Purple Ball,24,3.19,G
+2021-10-18,Tomate,Jaune flambee,24,0.072,G
+2021-10-18,Tomate,Jaune flambee,24,1.912,G
+2021-10-18,Tomate,Siberienne rose,24,1.268,C
+2021-10-18,Tomate,Siberienne rose,24,12.63,C
+2021-10-18,Tomate,Mix,24,9.194,C
+2021-10-20,Tomate,Mix,24,16.136,C
+2021-07-21,Tomate cerise,Tomate cerise,24,0.576,G
+2021-07-28,Tomate cerise,Galine,24,0.694,G
+2021-07-28,Tomate cerise,Hybrid Cherry,24,0.384,G
+2021-07-28,Tomate cerise,Orange,24,1.046,G
+2021-07-28,Tomate cerise,Tomate cerise,24,1.096,C
+2021-08-02,Tomate cerise,Hybrid Cherry,24,0.96,G
+2021-08-02,Tomate cerise,Orange,24,0.456,G
+2021-08-02,Tomate cerise,Galina,24,0.424,G
+2021-08-02,Tomate cerise,?,24,0.755,C
+2021-08-04,Tomate cerise,Hybrid Cherry,24,0.052,G
+2021-08-04,Tomate cerise,Orange,24,0.264,G
+2021-08-04,Tomate cerise,Galina,24,0.308,G
+2021-08-06,Tomate cerise,?,24,1.796,C
+2021-08-09,Tomate cerise,Hybrid Cherry,24,0.264,G
+2021-08-09,Tomate cerise,Orange,24,0.524,G
+2021-08-09,Tomate cerise,Galina,24,0.372,G
+2021-08-09,Tomate cerise,?,24,0.3,C
+2021-08-11,Tomate cerise,Galina,24,0.524,G
+2021-08-11,Tomate cerise,Orange,24,0.508,G
+2021-08-11,Tomate cerise,Hybrid Cherry,24,0.464,G
+2021-08-13,Tomate cerise,Hybrid Cherry,24,0.23,G
+2021-08-13,Tomate cerise,Orange,24,0.178,G
+2021-08-13,Tomate cerise,Galina,24,0.29,G
+2021-08-18,Tomate cerise,Hybrid Cherry,24,0.696,G
+2021-08-18,Tomate cerise,Orange,24,1.542,G
+2021-08-18,Tomate cerise,Galina,24,1.064,G
+2021-08-25,Tomate cerise,Hybrid Cherry,24,0.53,G
+2021-08-25,Tomate cerise,Orange,24,0.514,G
+2021-08-25,Tomate cerise,Galina,24,0.81,G
+2021-09-01,Tomate cerise,Galina,24,1.832,G
+2021-09-01,Tomate cerise,Orange,24,1.276,G
+2021-09-01,Tomate cerise,Hybrid Cherry,24,0.772,G
+2021-09-08,Tomate cerise,Hybrid Cherry,24,0.236,G
+2021-09-08,Tomate cerise,Orange,24,0.326,G
+2021-09-08,Tomate cerise,Galina,24,0.926,G
+2021-09-15,Tomate cerise,Hybrid Cherry,24,0.468,G
+2021-09-15,Tomate cerise,Orange,24,0.736,G
+2021-09-15,Tomate cerise,Galina,24,1.306,G
+2021-09-22,Tomate cerise,Orange,24,0.332,G
+2021-09-22,Tomate cerise,Galina,24,0.652,G
+2021-09-22,Tomate cerise,Hybrid Cherry,24,0.462,G
+2021-09-29,Tomate cerise,Galina,24,0.97,G
+2021-09-29,Tomate cerise,Orange,24,0.604,G
+2021-09-29,Tomate cerise,Hybrid Cherry,24,0.42,G
+2021-10-06,Tomate cerise,Galine,24,0.258,G
+2021-10-06,Tomate cerise,Orange,24,0.908,G
+2021-10-06,Tomate cerise,Hybrid Cherry,24,0.27,G
+2021-10-13,Tomate cerise,Hybrid Cherry,24,0.308,G
+2021-10-13,Tomate cerise,Orange,24,0.306,G
+2021-10-13,Tomate cerise,Galina,24,0.416,G
+2021-10-25,Tomate cerise,Galina,24,0.318,G
+2021-10-25,Tomate cerise,Hybrid Cherry,24,0.432,G
+2021-07-21,Tomates,Tomates,24,0.442,C
